@@ -219,7 +219,7 @@ Once I knew the basic features of the data I had to work with, I Imported the My
 
 #### # Data Modeling Step
 We have one main table and four other tables having one shared column with the main table. So we will connect the other tables to the main table using the shared columns.
-<img align="right" alt="Coding" width="573" src= "" >
+<img align="right" alt="Coding" width="573" src= "https://github.com/shrpadma2/Sales_Insights/blob/main/ETL_.png" >
 
 - Main Table: transactions
 
