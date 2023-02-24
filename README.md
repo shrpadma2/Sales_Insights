@@ -244,7 +244,7 @@ The dashboard shows all the main information about the company sales.
 
 #### # Dashboard 1: Sales Insights
 <img align="left" alt="Coding" width="573" src= "https://github.com/shrpadma2/Sales_Insights/blob/main/Capture.JPG" >
-The visualization of few of the findings is uploaded on Tableau [(link)](https://public.tableau.com/app/profile/shreyas.sunku.padmanabha/viz/Sales_Insights_16744371182970/Dashboard1). <br>
+The visualization of few of the findings is uploaded on Tableau [(https://public.tableau.com/app/profile/shreyas.sunku.padmanabha/viz/Sales_Insights_16744371182970/Dashboard1)]
     - Revenue
     - Net Profit
     - Revenue by Market
@@ -275,7 +275,8 @@ Based on the dashbaords insights, I have made some conclusions and recommendatio
 ---
 
 ## *References*
-- *Project Data: [Google Sheet](https://docs.google.com/spreadsheets/d/1cidC_V9YrS789-ZYTdAM1OgIXZVa_XfkRVy5Cyp3Qk8/edit?usp=sharing) | [MySQL Dump File]
+- *Project Data: [Google Sheet](https://docs.google.com/spreadsheets/d/1cidC_V9YrS789-ZYTdAM1OgIXZVa_XfkRVy5Cyp3Qk8/edit?usp=sharing) 
+- SQL dump file: [SQL](https://github.com/shrpadma2/Sales_Insights/blob/main/database_dump.sql)
 
 
 
