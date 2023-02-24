@@ -240,16 +240,18 @@ We have one main table and four other tables having one shared column with the m
 ---
 
 ## Dashboards
-The two dashboards shows all the main information about the company sales.
+The dashboard shows all the main information about the company sales.
 
 #### # Dashboard 1: Sales Insights
-
+<img align="left" alt="Coding" width="573" src= "https://github.com/shrpadma2/Sales_Insights/blob/main/Capture.JPG" >
+The visualization of few of the findings is uploaded on Tableau [(link)](https://public.tableau.com/app/profile/shreyas.sunku.padmanabha/viz/Sales_Insights_16744371182970/Dashboard1). <br>
     - Revenue
     - Net Profit
     - Revenue by Market
-    - Profit Trend by Market
-    - Revenue by Top 10 Products
-    - Profit Trend by Top 10 Products
+    - Revenue by Year
+    - Sales Quantity by Market
+    - Top 5 Customers
+    - Top 5 products
 
 
 
@@ -258,7 +260,7 @@ The two dashboards shows all the main information about the company sales.
 Based on the dashbaords insights, I have made some conclusions and recommendation that Sales Marketing team should/can consider making a sales strategy.
 
 #### # Conclusions
-- Sales were rapidly decreasing in 2020 compared to 2019 by around 57.7%.
+- Sales were rapidly decreasing in 2020 compared to 2019	.
 - Highest revenue generated from Markets such as Delhi NCR, Mumbai, Ahmedabad, Bhopal, Nagpur, and so on.
 - Highest quantities sold in the Market such as Delhi NCR, Mumbai, Nagpur, Kochi, Ahmedabad, and so on.
 - Majority of the sales were takes place in the month of January followed by November and March.
@@ -266,14 +268,14 @@ Based on the dashbaords insights, I have made some conclusions and recommendatio
 #### # Recommendation
 - Make a new sales strategy for lucknow since its showing lowest revenue and negative profit margin and if possible so as for Surat and Bhubhaneshwar also.
 - try to increase sales quantity in Patna, Surat and Kanpur since they have lowest sales quantity.
-- start target campagin for Prod047 and Prod061 since they two are the most profitable and most selling products.
+- start target campaign for Prod040 and Prod0159 since they are top two products
 - try to give special benefits to Electronics and Excel stores as they are most profitable customers.
-- make campgain strategy for mid year as they are showing high sales among other months.
+- make campaign strategy for mid year as they are showing high sales among other months.
 
 ---
 
 ## *References*
-- *Project Data: [Google Sheet](https://docs.google.com/spreadsheets/d/1cidC_V9YrS789-ZYTdAM1OgIXZVa_XfkRVy5Cyp3Qk8/edit?usp=sharing) | [MySQL Dump File](https://github.com/Laxman-Lakhan/AtliQ-Hardware-Sales-Insights/blob/a7e93603f70e2352ef3595c3717e4e7f3b352697/Data/database_dump.sql)*
+- *Project Data: [Google Sheet](https://docs.google.com/spreadsheets/d/1cidC_V9YrS789-ZYTdAM1OgIXZVa_XfkRVy5Cyp3Qk8/edit?usp=sharing) | [MySQL Dump File]
 
 
 
